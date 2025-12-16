@@ -5,6 +5,13 @@
 ## 📸 App Preview
 ![Iris App Screenshot](iris_app_preview.png)
 
+## 📊 Feature Importance
+
+The plot below shows which features contributed most to the Iris species classification.
+Petal length and petal width are the most important features.
+
+![Feature Importance](feature_importance.png)
+
 
 ## 📌 Project Overview
 This project is a beginner-friendly Machine Learning project that classifies iris flowers into three species based on their physical characteristics.
