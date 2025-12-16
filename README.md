@@ -2,6 +2,8 @@
 ## 🚀 Live Demo
 🔗 **App URL:** https://iris-ml-project-c2ekwuujex5b8ikvukegpv.streamlit.app/
 
+## 📸 App Preview
+![Iris App Screenshot](iris_app_preview.png)
 
 
 ## 📌 Project Overview
